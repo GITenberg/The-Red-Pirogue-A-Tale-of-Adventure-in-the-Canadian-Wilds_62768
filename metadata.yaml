@@ -1,0 +1,46 @@
+_repo: The-Red-Pirogue-A-Tale-of-Adventure-in-the-Canadian-Wilds_62768
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+creator:
+  author:
+    agent_name: Roberts, Theodore Goodridge
+    aliases:
+    - Roberts, G. E. Theodore (George Edward Theodore)
+    - Goodridge Roberts, Theodore
+    - Roberts, George Edward Theodore
+    - Roberts, T. G. (Theodore Goodridge)
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '7525'
+    url: http://www.gutenberg.org/2009/agents/7525
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
+description: ''
+gutenberg_issued: '2020-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62768'
+  lccn: '24006230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitives from justice -- Juvenile fiction'
+- !lcsh 'Murder -- Investigation -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Ontario -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: 'The Red Pirogue: A Tale of Adventure in the Canadian Wilds'
+url: http://www.gutenberg.org/ebooks/62768
